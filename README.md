@@ -17,3 +17,7 @@ It is recommended to work inside a Python Virtual Environment. The following ste
 - Install the required libraries using `pip install -r requirements.txt`
 - Change permissions on the main executable python file `chmod u+x quote-grabber.py`
 - Run the script using `./quote-grabber.py`
+
+# Possible use cases
+
+Initially I used it to set a new motd in the vm's. But it can be used for other like purposes.
