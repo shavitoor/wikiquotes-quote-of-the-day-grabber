@@ -5,8 +5,8 @@ Little demo site scraping to grab the Wikiquote "Quote of the day". The URL to t
 ## Dependencies
 
 - Python 3
-- BeautifulSoup
-- Requests
+- [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
+- [Requests](https://docs.python-requests.org/en/latest/)
 
 ## Execution steps
 
