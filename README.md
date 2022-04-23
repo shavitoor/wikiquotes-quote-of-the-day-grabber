@@ -1,6 +1,6 @@
 # Description
 
-Little demo site scraping to grab the Wikiquote "Quote of the day". The URL to the website, for reference, is `https://en.wikiquote.org/wiki/Main_Page`
+Little demo using site scraping to grab the Wikiquote "Quote of the day". The URL to the website, for reference, is `https://en.wikiquote.org/wiki/Main_Page`
 
 ## Dependencies
 
