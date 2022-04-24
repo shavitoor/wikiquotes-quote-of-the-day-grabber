@@ -20,4 +20,4 @@ It is recommended to work inside a Python Virtual Environment. The following ste
 
 # Possible use cases
 
-Initially I used it to set a new motd in the vm's. But it can be used for other like purposes.
+Initially I used it to set a new motd in the vm's. But it can be used for other similar purposes.
